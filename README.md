@@ -9,3 +9,5 @@
 
 5.[ https://github.com/2303A51174/23CSBTB39-40/blob/main/Untitled20.ipynb%20AIML_ASSIGNMENT%3A-05]
 
+6.[https://github.com/2303A51174/23CSBTB39-40/blob/main/Untitled6.ipynb]
+
