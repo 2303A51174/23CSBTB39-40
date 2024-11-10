@@ -17,3 +17,5 @@
 
 9[https://github.com/2303A51174/23CSBTB39-40/blob/main/AIML_Lab09.ipynb]
 
+10[https://github.com/2303A51174/23CSBTB39-40/blob/main/AIML_Lab10.ipynb]
+
