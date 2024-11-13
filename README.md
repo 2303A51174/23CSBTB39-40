@@ -19,3 +19,5 @@
 
 10[https://github.com/2303A51174/23CSBTB39-40/blob/main/AIML_Lab10.ipynb]
 
+[https://github.com/2303A51174/23CSBTB39-40/blob/main/LAB_EXAM.ipynb] {LAB EXAM}
+
